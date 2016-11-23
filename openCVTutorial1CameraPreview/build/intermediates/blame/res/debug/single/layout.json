@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/poovam/AndroidStudioProjects/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/tutorial1_surface_view.xml",
+        "source": "/home/poovam/AndroidStudioProjects/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/res/layout/tutorial1_surface_view.xml"
+    },
+    {
+        "merged": "/home/poovam/AndroidStudioProjects/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/build/intermediates/res/merged/debug/layout/speechrecognizer.xml",
+        "source": "/home/poovam/AndroidStudioProjects/tutorial-1-camerapreview1/openCVTutorial1CameraPreview/src/main/res/layout/speechrecognizer.xml"
+    }
+]

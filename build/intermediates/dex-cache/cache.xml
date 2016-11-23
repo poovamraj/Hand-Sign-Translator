@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Poovam\AndroidStudioProjects\tutorial-1-camerapreview1\openCVTutorial1CameraPreview\build\intermediates\exploded-aar\tutorial-1-camerapreview1\openCVLibrary300\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="67b3bd6ccd3c8270ffb33191c07ccc5ff80d938d">
+        <dex dex="C:\Users\Poovam\AndroidStudioProjects\tutorial-1-camerapreview1\openCVTutorial1CameraPreview\build\intermediates\pre-dexed\debug\classes-64cff8411ea546e8c2a0781e2aa007721a3c0847.jar" />
+    </item>
+
+</items>
